@@ -8,4 +8,4 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-
+[Check out the website here](https://lordzatch.github.io/Sorting-Visualizer/)
